@@ -49,25 +49,33 @@ This project focuses on analyzing workplace safety incidents across Ontario, lev
 Industry-wise risk breakdown & incident trends, helping decision-makers allocate resources effectively.
 Incident forecasting models embedded within Power BI for proactive safety measures.
 
-Repository Structure
+## Repository Structure
 
 Edit
 ├── data/
+
 │   ├── cleaned_dataset1.csv
+
 │   ├── cleaned_dataset2.csv
+
 │   ├── Ontario_Workplace_Safety_Analysis_Presentation.pdf
+
 │   ├── Ontario_Accident_Analysis_Methodology.pdf
+
 │   └── Ontario_Safety_Dashboard_Dataset.pbix
 │
 ├── notebooks/
 │   ├── Ontario_Safety_Analysis_Dataset1.ipynb
+
 │   ├── Ontario_Safety_Analysis_Dataset2.ipynb
 │
 ├── visualizations/
-│   ├── Power BI Dashboard Screenshots
-│   ├── Graphical Analysis Reports
+│   ├── Power BI Dashboards
+
+│ 
 │
 ├── README.md
+
 └── LICENSE
 
 ### How to Use the Dashboard
