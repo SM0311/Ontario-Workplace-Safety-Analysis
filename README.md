@@ -4,7 +4,7 @@ Comprehensive Analysis and Visualization of Workplace Incidents in Ontario
 
 ## Project Overview
 
-This project focuses on analyzing workplace safety incidents across Ontario, leveraging Power BI, Python (Pandas, NumPy, Seaborn, Matplotlib), and SQL to provide key insights into incident trends, industry risks, and worker safety compliance. The analysis aids in identifying high-risk industries, accident trends, and demographic insights, supporting data-driven decision-making for workplace safety improvements.
+This project focuses on analyzing workplace safety incidents across Ontario, leveraging Power BI, and Python (Pandas, NumPy, Seaborn, Matplotlib), to provide key insights into incident trends, industry risks, and worker safety compliance. The analysis aids in identifying high-risk industries, accident trends, and demographic insights, supporting data-driven decision-making for workplace safety improvements.
 
 ## Objectives
 
